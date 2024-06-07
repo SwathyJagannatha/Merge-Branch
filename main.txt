@@ -1,4 +1,6 @@
 "This is the main file" 
-"This is for feature-1" 
+"this is for feature-1" 
+"Wow this is cool, glad i have help my first time around!!" 
 We are looking at all the ways of branching!! 
+
 
